@@ -19,8 +19,7 @@ description: "A worldwide initiative where PHP developers co-create a charity e-
 
 All entries are reviewed and curated into a professional **charity e-book published on Amazon Kindle**.
 
-💙 **100% of every sale supports children’s education**  
-(Current suggested charity: *Room to Read*.)
+💙 **100% of every sale supports children’s education**  ([Room to Read](https://www.roomtoread.org))
 
 ---
 
