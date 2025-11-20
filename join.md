@@ -1,4 +1,4 @@
-# Join the Project
+# Join
 
 ## Anyone Can Contribute
 

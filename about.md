@@ -1,4 +1,4 @@
-# About the Project
+# About
 
 ## 🌱 Our Mission
 
