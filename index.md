@@ -47,7 +47,7 @@ Introduce yourself and follow updates.
 
 🟩 **Step 2 — Register as a Contributor**  
 Fill in a short GDPR-safe form (no email collected).  
-👉 [Open Registration Form](#)
+👉 [Open Registration Form](https://forms.gle/B5mbC1kSujuq5eds7)
 
 🟧 **Step 3 — Get Repository Access**  
 Once approved, you will receive access to the private repo.
@@ -94,4 +94,4 @@ If that’s you — join us.
 
 ## 📣 Call to Action  
 ### **Become part of a worldwide PHP initiative that helps children learn.**  
-👉 [Fill Out the Contributor Form](#)  
+👉 [Fill Out the Contributor Form](https://forms.gle/B5mbC1kSujuq5eds7)  

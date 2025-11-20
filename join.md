@@ -18,7 +18,7 @@ We only require:
 - your name or preferred nickname (optional)  
 - why you want to join  
 
-👉 [Open the Registration Form](#)
+👉 [Open the Registration Form](https://forms.gle/B5mbC1kSujuq5eds7)
 
 *(Email is NOT collected — GDPR compliant.)*
 
@@ -56,4 +56,4 @@ You can also include a link to:
 ---
 
 ## ❤️ Join Now and Make an Impact  
-👉 [Fill Out the Contributor Form](#)
+👉 [Fill Out the Contributor Form](https://forms.gle/B5mbC1kSujuq5eds7)

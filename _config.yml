@@ -1,0 +1,5 @@
+theme: minima
+title: "PHP Community Book"
+description: "A global PHP community initiative — writing a charity e-book together."
+markdown: kramdown
+show_downloads: false
