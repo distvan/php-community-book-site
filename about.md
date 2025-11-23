@@ -18,7 +18,7 @@ This project creates:
 All income from the book is donated.  
 Our current recommended organization:
 
-### **Room to Read**  
+### **[Room to Read](https://www.roomtoread.org)**  
 A respected global nonprofit focusing on:
 - Literacy education  
 - Girls’ education  
